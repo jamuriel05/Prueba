@@ -21,7 +21,7 @@
 	<div class="container">
 		<div class="card">
 			<div class="encabezado-formularios">
-				<h1 align="center"> Registar Usuario </h1>
+				<h1 align="center"> Registrar Usuario </h1>
 			</div>
             
 			<div class="card-body">

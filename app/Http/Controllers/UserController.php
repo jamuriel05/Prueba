@@ -19,7 +19,8 @@ class UserController extends Controller
     }
 
     public function index(Request $request)
-    {
+    {   
+
         $datos['users']=user::paginate();
         return view('users.index',$datos);
     }
@@ -64,9 +65,9 @@ class UserController extends Controller
      * @param  \App\Models\User  $user
      * @return \Illuminate\Http\Response
      */
-    public function show(User $user)
+    public function show()
     {
-        //
+       
     }
 
     /**

@@ -26,7 +26,7 @@
                 <hr>
                 <table id="tabla" class="table table-striped" style="width:100%">
                     <thead>
-                        <tr>
+                        <tr align="center">
                             <th>#</th>
                             <th>Nombre</th>
                             <th>Tipo de Documento</th>
